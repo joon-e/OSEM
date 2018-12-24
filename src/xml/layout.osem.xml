@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE surveyContent SYSTEM "https://www.soscisurvey.de/templates/doctype.survey.dtd">
+<surveyLayout version="2.4" program="oFb" progversion="2.6.00-i 1228">
+<name>OSEM</name>
+<title>OSEM Layout</title>
+<template>
+<![CDATA[<!DOCTYPE html>
+<html>
+<head>
+%head%
+<style>
+	#osemBar {
+	    border-bottom: 1px solid #000;
+	    padding: 7px;
+	    position: fixed;
+	    background: #ffffff;
+	    width: 100%;
+		top: 0;
+	}
+
+	.osemClickable {
+	    cursor: pointer;
+	}
+</style>
+<link rel="stylesheet" type="text/css" href="sample.css">
+</head>
+
+<body>
+<div>
+	%questionnaire%
+</div>
+<div style="width: %width%; margin: 40px auto 0px auto">
+	%button.submit%
+</div>
+<script src="../plugins/jQuery/jquery-3.3.1.min.js"></script>
+<script type="text/javascript">
+var counter = %osemCounter%;
+var timeStart = %osemTime%;
+var osemId = %osemSpoke%;
+var endClicks = %osemEndClicks%;
+var endTime = %osemEndTime%;
+var timeNow = %osemTimeNow%;
+</script>
+<script src="osem.js"></script>
+</body>
+</html>]]>
+</template>
+</surveyLayout>

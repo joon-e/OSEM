@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sample Hub Page</title>
+    <link rel="stylesheet" type="text/css" href="sample.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Sample Hub</h1>
+        </header>
+        <main>
+            <div class="spoke-box osemSpoke" data-osem-spoke="1">
+                <img src="1.png">
+                <div class="spoke-headline osemClickable">Spoke Link 1</div>
+                <div class="spoke-text">This is a spoke link. Only the headline is clickable.</div>
+            </div>
+            <div class="spoke-box osemSpoke" data-osem-spoke="2">
+                <img src="2.png" class="osemClickable">
+                <div class="spoke-headline osemClickable">Spoke Link 2</div>
+                <div class="spoke-text">This is also a spoke link. Both image and headline are clickable.</div>
+            </div>
+            <div class="spoke-box osemSpoke" data-osem-spoke="3">
+                <img src="3.png">
+                <div class="spoke-headline">Spoke Link 3</div>
+                <div class="spoke-text">This is the third spoke link. Only the following text is clickable: <span class="osemClickable" data-osem-spoke="3">read on</span></div>
+            </div>
+            <div class="spoke-box osemSpoke osemClickable" data-osem-spoke="4">
+                <img src="4.png">
+                <div class="spoke-headline">Spoke Link 4</div>
+                <div class="spoke-text">This is the fourth spoke link. The whole box is clickable.</div>
+            </div>
+        </main>
+    </div>
+</body>
+</html>
