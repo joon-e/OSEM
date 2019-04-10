@@ -9,7 +9,3 @@ Donwload or clone all files to your hard drive, then consult the [Wiki](https://
 ### Citation
 
 [Unkel, Julian](http://www.julianunkel.com) (2018). OSEM: Online selective exposure measurement for SoSci Survey. Available at https://github.com/joon-e/OSEM/
-
-### License
-
-CC BY 4.0
