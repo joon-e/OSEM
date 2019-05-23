@@ -10,6 +10,11 @@ main {
     grid-gap: 20px;
 }
 
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
 .spoke-box {
     border: 1px dashed;
 }
@@ -32,11 +37,16 @@ main {
     color: #0645AD;
 }
 
-.back-to-hub:hover {
+.back-to-hub a {
+    text-decoration: none;
+    color: #0645AD;
+}
+
+.back-to-hub a:hover {
     text-decoration: underline;
 }
 
-.back-to-hub::before {
+.back-to-hub a::before {
     content: '←';
     padding-right: 3px;
 }
