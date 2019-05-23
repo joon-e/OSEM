@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE surveyContent SYSTEM "https://www.soscisurvey.de/templates/doctype.survey.dtd">
+<surveyContent version="2.4">
+<program>sosci</program>
+<version>3.1.06-i</version>
+<timestamp>2018-11-29 16:31:05</timestamp>
+<title>OSEM Clicks</title>
+<description />
+<language>ger</language>
+<attributes.specific program="ofb">
+<attr id="language">ger</attr>
+</attributes.specific>
+<section>
+<title>OSEM Clicks</title>
+<attributes.specific program="ofb">
+<attr id="id">CL</attr>
+</attributes.specific>
+<question>
+<description>Click 1</description>
+<class>internal</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+<item>
+<text>Selection</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Dwell time</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Timestamp</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Click 2</description>
+<class>internal</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+<item>
+<text>Selection</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Dwell time</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Timestamp</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Click 3</description>
+<class>internal</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+<item>
+<text>Selection</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Dwell time</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Timestamp</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Click 4</description>
+<class>internal</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<attributes.specific program="ofb">
+<attr id="id">4</attr>
+<attr id="pos">4</attr>
+</attributes.specific>
+<item>
+<text>Selection</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Dwell time</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Timestamp</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Click 5</description>
+<class>internal</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<attributes.specific program="ofb">
+<attr id="id">5</attr>
+<attr id="pos">5</attr>
+</attributes.specific>
+<item>
+<text>Selection</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Dwell time</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Timestamp</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Click 6</description>
+<class>internal</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<attributes.specific program="ofb">
+<attr id="id">6</attr>
+<attr id="pos">6</attr>
+</attributes.specific>
+<item>
+<text>Selection</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Dwell time</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Timestamp</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Click 7</description>
+<class>internal</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<attributes.specific program="ofb">
+<attr id="id">7</attr>
+<attr id="pos">7</attr>
+</attributes.specific>
+<item>
+<text>Selection</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Dwell time</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Timestamp</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Click 8</description>
+<class>internal</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<attributes.specific program="ofb">
+<attr id="id">8</attr>
+<attr id="pos">8</attr>
+</attributes.specific>
+<item>
+<text>Selection</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Dwell time</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Timestamp</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Click 9</description>
+<class>internal</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<attributes.specific program="ofb">
+<attr id="id">9</attr>
+<attr id="pos">9</attr>
+</attributes.specific>
+<item>
+<text>Selection</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Dwell time</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Timestamp</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Click 10</description>
+<class>internal</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<attributes.specific program="ofb">
+<attr id="id">10</attr>
+<attr id="pos">10</attr>
+</attributes.specific>
+<item>
+<text>Selection</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Dwell time</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Timestamp</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Click 11</description>
+<class>internal</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<attributes.specific program="ofb">
+<attr id="id">11</attr>
+<attr id="pos">11</attr>
+</attributes.specific>
+<item>
+<text>Selection</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Dwell time</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Timestamp</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Click 12</description>
+<class>internal</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<attributes.specific program="ofb">
+<attr id="id">12</attr>
+<attr id="pos">12</attr>
+</attributes.specific>
+<item>
+<text>Selection</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Dwell time</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Timestamp</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Click 13</description>
+<class>internal</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<attributes.specific program="ofb">
+<attr id="id">13</attr>
+<attr id="pos">13</attr>
+</attributes.specific>
+<item>
+<text>Selection</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Dwell time</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Timestamp</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Click 14</description>
+<class>internal</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<attributes.specific program="ofb">
+<attr id="id">14</attr>
+<attr id="pos">14</attr>
+</attributes.specific>
+<item>
+<text>Selection</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Dwell time</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Timestamp</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Click 15</description>
+<class>internal</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<attributes.specific program="ofb">
+<attr id="id">15</attr>
+<attr id="pos">15</attr>
+</attributes.specific>
+<item>
+<text>Selection</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Dwell time</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Timestamp</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Click 16</description>
+<class>internal</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<attributes.specific program="ofb">
+<attr id="id">16</attr>
+<attr id="pos">16</attr>
+</attributes.specific>
+<item>
+<text>Selection</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Dwell time</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Timestamp</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Click 17</description>
+<class>internal</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<attributes.specific program="ofb">
+<attr id="id">17</attr>
+<attr id="pos">17</attr>
+</attributes.specific>
+<item>
+<text>Selection</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Dwell time</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Timestamp</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Click 18</description>
+<class>internal</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<attributes.specific program="ofb">
+<attr id="id">18</attr>
+<attr id="pos">18</attr>
+</attributes.specific>
+<item>
+<text>Selection</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Dwell time</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Timestamp</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Click 19</description>
+<class>internal</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<attributes.specific program="ofb">
+<attr id="id">19</attr>
+<attr id="pos">19</attr>
+</attributes.specific>
+<item>
+<text>Selection</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Dwell time</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Timestamp</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+</question>
+<question>
+<description>Click 20</description>
+<class>internal</class>
+<title />
+<explanation />
+<inputPosition>right</inputPosition>
+<attributes.specific program="ofb">
+<attr id="id">20</attr>
+<attr id="pos">20</attr>
+</attributes.specific>
+<item>
+<text>Selection</text>
+<attributes.specific program="ofb">
+<attr id="id">1</attr>
+<attr id="pos">1</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Dwell time</text>
+<attributes.specific program="ofb">
+<attr id="id">2</attr>
+<attr id="pos">2</attr>
+</attributes.specific>
+</item>
+<item>
+<text>Timestamp</text>
+<attributes.specific program="ofb">
+<attr id="id">3</attr>
+<attr id="pos">3</attr>
+</attributes.specific>
+</item>
+</question>
+</section>
+</surveyContent>
