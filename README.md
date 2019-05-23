@@ -4,7 +4,7 @@ OSEM (Online Selective Exposure Measurement) for SoSci is a collection of script
 
 ### Usage
 
-Donwload or clone all files to your hard drive, then consult the [Wiki](https://github.com/joon-e/OSEM/wiki) for detailed instructions.
+Download or clone all files to your hard drive, then consult the [Wiki](https://github.com/joon-e/OSEM/wiki) for detailed instructions.
 
 ### Citation
 
