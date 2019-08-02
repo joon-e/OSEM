@@ -41,7 +41,7 @@ var endClicks = %osemEndClicks%;
 var endTime = %osemEndTime%;
 var timeNow = %osemTimeNow%;
 </script>
-<script src="osem.js"></script>
+<script src="osem.min.js"></script>
 </body>
 </html>]]>
 </template>
