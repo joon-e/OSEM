@@ -139,3 +139,5 @@ $osemDisplayBar = sprintf($osemBarContent,
 //// Display on page
 
 html($osemDisplayBar);
+$spokeID = value('OS01_02');
+registerVariable('spokeID');
