@@ -8,4 +8,4 @@ Download or clone all files to your hard drive, then consult the [Wiki](https://
 
 ### Citation
 
-[Unkel, Julian](http://www.julianunkel.com) (2018). OSEM: Online selective exposure measurement for SoSci Survey. Available at https://github.com/joon-e/OSEM/
+Unkel, J. (2019). Measuring selective exposure in mock website experiments: A simple, free, and open-source solution. _Communication Methods and Measures. Advance online publication_. doi: [10.1080/19312458.2019.1708284](https://doi.org/10.1080/19312458.2019.1708284)
