@@ -21,6 +21,10 @@
 	.osemClickable {
 	    cursor: pointer;
 	}
+
+	div.s2admin.s2notice {
+		display: none;
+	}
 </style>
 <link rel="stylesheet" type="text/css" href="sample.css">
 </head>
