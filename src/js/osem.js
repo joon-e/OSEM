@@ -55,10 +55,10 @@ function saveClick(selectionId, spokeId, qPrefix) {
 // Get coordinates of spokes
 
 function getCoords(spokes) {
-    for (i = 1; i < spokes.length; i++) {
+    for (i = 0; i < spokes.length; i++) {
         var rect = spokes[i].getBoundingClientRect();
         var question;
-        if (i < 10) {
+        if (i < 9) {
             question = 'CO0' + (i + 1);
         } else {
             question = 'CO' + (i + 1);
