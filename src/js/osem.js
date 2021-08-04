@@ -22,6 +22,8 @@ var i;
 var spokes = $('.osemSpoke');
 var type = $('#osemBar').attr('data-osem-type');
 var timeLoad = Date.now();
+var timeOffset = Math.floor(timeLoad / 1000) - timeNow
+endTime = endTime + timeOffset
 
 // Layout
 
@@ -204,9 +206,9 @@ $('.osemAbort').click(function(){
 // Get coordinates of spoke links, save Window dimensions
 
 if (counter == 1) {
-    getCoords(spokes);
-    saveToSoSci($(window).width(), 'OS02_01');
-    saveToSoSci($(window).height(), 'OS02_02');
+    //getCoords(spokes);
+    //saveToSoSci($(window).width(), 'OS02_01');
+    //saveToSoSci($(window).height(), 'OS02_02');
 }
 
 //// EVENTS: USER CLICKS
