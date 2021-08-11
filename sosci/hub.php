@@ -48,6 +48,7 @@ $osemType = 'hub';
 if(!isset($osemCounter)) {
     $osemCounter = 1;
     registerVariable('osemCounter');
+    put('OS01_01', 0);
 } else {
     $osemCounter = value('OS01_01') + 1;
 }
